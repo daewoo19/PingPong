@@ -1,2 +1,2 @@
 # PingPong
-A shitty pong game
+A pong clone.
